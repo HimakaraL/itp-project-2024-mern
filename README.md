@@ -2,8 +2,8 @@
 Y2S2 ITP project using MERN Stack - Lighting and functional services management System : Chandika Light
 
 Install necessaray node modules &
-To run: cd backend
-        npm start
+To run: `cd backend`
+        `npm start`
 
 <img width="850" alt="Capture5" src="https://github.com/HimakaraL/itp-project-2024-mern/assets/143909843/bca9176d-2386-4822-80ef-30380cf445cd">
 <img width="850" alt="Capture4" src="https://github.com/HimakaraL/itp-project-2024-mern/assets/143909843/df7e6fd7-be1a-4298-a99b-c6bebabcb5a4">
